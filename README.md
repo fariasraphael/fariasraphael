@@ -5,6 +5,11 @@ Hi 👋, I'm Raphael Farias and I'm a **junior full stack web developer** from R
 
 - 📫 How to reach me **farias.raphael@gmail.com**
 
+## My bootcamp project :
+
+- 👨‍💻 Timester: An app to make time for your well-being [GitHub repository](https://github.com/Clenia2023/Timester "Timester - GitHub Repository") | [Timester App](https://timester-324f495b6657.herokuapp.com/ "Timester")  
+
+
 ## More about me:
 
 ```javascript
