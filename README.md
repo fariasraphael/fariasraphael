@@ -23,24 +23,6 @@ Hi 👋, I'm Raphael Farias and I'm a **junior full stack web developer** from R
 | **Other** | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> |
 
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
-
-
-
-<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
-
- 
-
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fariasraphael&show_icons=true&locale=en&layout=compact" alt="fariasraphael" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fariasraphael&show_icons=true&locale=en" alt="fariasraphael" /></p>
