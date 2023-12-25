@@ -5,7 +5,7 @@ Hi 👋, I'm Raphael Farias and I'm a **junior full stack web developer** from R
 
 - 📫 How to reach me **farias.raphael@gmail.com**
 
-## <h3 align="left">More about me:</h3>
+## More about me:
 
 ```javascript
 const raphaelFarias = {
@@ -19,7 +19,7 @@ const raphaelFarias = {
 
 ```
 
-## <h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 
 | Category | Languages/Tools |
 |:---:|:---:|
