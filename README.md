@@ -5,7 +5,7 @@ Hi 👋, I'm Raphael Farias and I'm a **junior full stack web developer** from R
 
 - 📫 How to reach me **farias.raphael@gmail.com**
 
-<h3 align="left">More about me:</h3>
+## <h3 align="left">More about me:</h3>
 
 ```javascript
 const raphaelFarias = {
@@ -19,7 +19,7 @@ const raphaelFarias = {
 
 ```
 
-<h3 align="left">Languages and Tools:</h3>
+## <h3 align="left">Languages and Tools:</h3>
 
 | Category | Languages/Tools |
 |:---:|:---:|
@@ -35,8 +35,7 @@ const raphaelFarias = {
 [![fariasraphael](https://github-readme-stats.vercel.app/api/top-langs?username=fariasraphael&show_icons=true&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=fariasraphael&show_icons=true&locale=en&layout=compact)
 
 
-##
-<h3 align="left">Connect with me:</h3>
+## <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fariasraphael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fariasraphael" height="30" width="40" /></a>
 </p>
