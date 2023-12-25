@@ -1,4 +1,4 @@
-# Hello, World
+# Hello, World!
 Hi 👋, I'm Raphael Farias and I'm a **junior full stack web developer** from Rio de Janeiro, Brazil
 
 - 🌱 I’m currently working to improve my skills on **Ruby on Rails and ReactJS**
@@ -9,6 +9,10 @@ Hi 👋, I'm Raphael Farias and I'm a **junior full stack web developer** from R
 <p align="left">
 <a href="https://linkedin.com/in/fariasraphael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fariasraphael" height="30" width="40" /></a>
 </p>
+
+At the command prompt, type `nano`.
+
+``Use `code` in your Markdown file.``
 
 <h3 align="left">Languages and Tools:</h3>
 
