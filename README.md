@@ -12,21 +12,7 @@ Hi 👋, I'm Raphael Farias and I'm a **junior full stack web developer** from R
 
 At the command prompt, type `nano`.
 
-``const julesChevrant = {
-  availableForHire: true,
-  education: "Le Wagon Paris, a 9-week full-time intensive coding bootcamp",
-  otherAlias: "Junior Full Stack Developer",
-  codesIn: ["HTML", "CSS", "Ruby"],
-  currentlylearning: ["Ruby on Rails", "JavaScript ES6", "SQL"],
-  toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku", "Wordpress"],
-  pastExperience: [
-    {
-      company : "La Revanche des Sites",
-      post : "SEO Consultant",
-      duration : "2 years and a half"
-    },
-  ],
-}``
+
 
 <h3 align="left">Languages and Tools:</h3>
 
