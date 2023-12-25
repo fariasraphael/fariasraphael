@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raphael Farias</h1>
-<h3 align="center">A junior full stack web developer developer from Rio de Janeiro, Brazil</h3>
+<h3>Hi 👋, I'm Raphael Farias</h3>
+<h4>A junior full stack web developer developer from Rio de Janeiro, Brazil</h4>
 
 - 🌱 I’m currently working to improve my skills on **Ruby on Rails and ReactJS**
 
