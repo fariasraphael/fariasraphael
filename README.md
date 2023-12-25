@@ -5,14 +5,19 @@ Hi 👋, I'm Raphael Farias and I'm a **junior full stack web developer** from R
 
 - 📫 How to reach me **farias.raphael@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fariasraphael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fariasraphael" height="30" width="40" /></a>
-</p>
+<h3 align="left">More about me:</h3>
 
-At the command prompt, type `nano`.
+```javascript
+const raphaelFarias = {
+  availableForHire: true,
+  education: "Le Wagon São Paulo...",
+  otherAlias: "Junior Full Stack Developer",
+  codesIn: ["HTML", "CSS", "Ruby", "JavaScript ES6"],
+  currentlyLearning: ["Ruby on Rails", "SQL", "React"],
+  toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku"]
+};
 
-
+```
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -27,6 +32,12 @@ At the command prompt, type `nano`.
 | **Other** | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> |
 
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fariasraphael&show_icons=true&locale=en&layout=compact" alt="fariasraphael" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fariasraphael&show_icons=true&locale=en" alt="fariasraphael" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/fariasraphael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fariasraphael" height="30" width="40" /></a>
+</p>
