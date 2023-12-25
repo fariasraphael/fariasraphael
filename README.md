@@ -12,12 +12,10 @@ Hi 👋, I'm Raphael Farias and I'm a **junior full stack web developer** from R
 
 <h3 align="left">Languages and Tools:</h3>
 
-| Program Lenguages | Frontend Development |
-| ----------------- | ----------------- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-| 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-|
+| Category | Languages/Tools |
+|---|:---|
+| **Backend** |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" width="40" height="40"/> |
+| **Frontend** |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg " alt="JavaScript" width="40" height="40"/> <br/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> |
 
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
